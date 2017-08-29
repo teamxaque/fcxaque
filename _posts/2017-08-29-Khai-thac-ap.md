@@ -32,9 +32,7 @@ Truy cập vào trang: http://tools.pentestbox.org để tham khảo các tools 
 15. Linux Utilities  
 16. Browser  
 Có thể thêm các tools trên Git bằng cách tham khảo [link](https://github.com/infoslack/awesome-web-hacking).
-
-
-<br/>
+   
 ## Tấn công Wifi sử dụng mã hoá WPA
 *Giới thiệu về WEP, WPA/WPA2*  
 WEP, WPA/WPA2 là những chuẩn bảo mật phổ biến để bảo vệ mạng wifi, bảo đảm an toàn cho kết nối không dây. WEP là một giao thức bảo mật cũ với nhiều hạn chế về bảo mật và hiện tại đã được thay thế bởi 2 chuẩn WPA/WPA2 (WiFi Protected Access). WEP viết tắt của Wired Equivalent Privacy (Riêng tư tương tự mạng dây), WPA là Wireless Protected Area (vùng bảo vệ không dây). WPA2 là phiên bản thứ hai của chuẩn WPA.
