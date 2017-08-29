@@ -102,4 +102,4 @@ Cú pháp:
 - Hàm Hash là gì?
 - Cơ chế lưu trữ mật khẩu trên web?   
    
-> Bài hướng dẫn sử dụng nhóm công cụ **Aircrack**   - Author: [Khánh Saker](khanhsaker97.github.io)  
+> Bài hướng dẫn sử dụng nhóm công cụ **Aircrack**   - Author: [Khánh Saker](https://khanhsaker97.github.io)  
