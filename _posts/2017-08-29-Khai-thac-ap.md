@@ -7,7 +7,6 @@ Bài viết trình bày về buổi semina về khai thác AP của team ngày 2
    
    
 ---
-# 25/08/2017 - Khai thác AP
 >Thành phần:  
 >- Khánh Saker  
 >- Quốc Anh  
