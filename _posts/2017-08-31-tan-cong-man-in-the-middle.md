@@ -22,7 +22,7 @@ Tác giả: Trung Trần
 2. Chọn Card wifi
 	- Hệ thống sẽ liệt kê những điểm AP gần đó
 	- Lựa chọn 1 điểm phát AP để tấn công
-3. bước tiếp theo
+3. bước tiếp theo....
 
 ---
 # Hướng dẫn tạo Server ảo + DVWA thử nghiệm do thám trong mạng
@@ -55,14 +55,15 @@ Tác giả: [Khánh Saker](https://khanhsaker97.github.io)
 1. Khởi động Cain
 2. Configure --> Chọn card mạng
 3. Nhấn biểu tượng card mạng. Chuyển sang thẻ Sniffer
-4. Tiếp theo......
-
+4. Tại mục Host. Chọn dấu cộng xanh để thêm host. Có thể chọn **Resolve the host name** để xem tên máy
+5. Tại mục APR. Chọn các host cần lắng nghe và thưởng thức thành quả.
+---
 # Kết quả của buổi semina
 
-Trung:
-Khánh:
-Quốc Anh:
-
+1. Trung:
+2. Khánh:
+3. Quốc Anh:
+---
 # Chủ đề của tuần tới:
 1. Liên quan tới khai thác AP
 	Kịch bản: Tấn công MITM với AP ảo
