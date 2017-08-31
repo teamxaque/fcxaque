@@ -1,11 +1,11 @@
 ---
 title: Tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN!
 tags: [AP, Exploit AP, MITM Attack, Cain&Abel, DVWA]
+excerpt_separator: <!--more-->
 ---
 Bài viết note lại buổi semina về tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN với Cain&Abel ngày 31/08/2017
-   
-   
-   
+<!--more-->
+
 ---
 >Thành phần:  
 >- Khánh Saker  
@@ -57,12 +57,14 @@ Tác giả: [Khánh Saker](https://khanhsaker97.github.io)
 3. Nhấn biểu tượng card mạng. Chuyển sang thẻ Sniffer
 4. Tại mục Host. Chọn dấu cộng xanh để thêm host. Có thể chọn **Resolve the host name** để xem tên máy
 5. Tại mục APR. Chọn các host cần lắng nghe và thưởng thức thành quả.
+
 ---
 # Kết quả của buổi semina
 
 1. Trung:
 2. Khánh:
 3. Quốc Anh:
+
 ---
 # Chủ đề của tuần tới:
 1. Liên quan tới khai thác AP
