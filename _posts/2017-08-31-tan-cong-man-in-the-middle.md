@@ -25,6 +25,12 @@ Tác giả: Trung Trần
 3. bước tiếp theo....
 
 ---
+# Tấn công giả mạo AP với Fluxion
+Tác giả: [Khánh Saker]()
+
+
+
+---
 # Hướng dẫn tạo Server ảo + DVWA thử nghiệm do thám trong mạng
 
 ## Công cụ:
@@ -63,7 +69,11 @@ Tác giả: [Khánh Saker](https://khanhsaker97.github.io)
 
 1. Trung:
 2. Khánh:
+- Biết các thao tác cơ bản sử dụng Cain để tiến hành nghe lén.
+- Biết cấu hình xampp để máy khác vào được web server của mình trong mạng Lan
 3. Quốc Anh:
+- Nắm được mô hình của việc quản lý các trang web, khả năng truy cập của các user, tạo database của web
+- Tìm cách phát hiện sniff.
 
 ---
 # Chủ đề của tuần tới:
