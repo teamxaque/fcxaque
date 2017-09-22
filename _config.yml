@@ -25,7 +25,7 @@ license: MIT License
 
 # theme variables, change this to make site looks best.
 baseurl: /
-paginate: 2
+paginate: 10
 excerpt_separator: "<!--more-->"
 
 # system variables, do not change unless you knew what's it does.
