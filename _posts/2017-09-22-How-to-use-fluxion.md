@@ -14,13 +14,12 @@ Công cụ Wifi mang tên Fluxion được xem đây là phiên bản làm lại
 Fluxion script được tạo ra rất thích hợp cho các nhà nghiên cứu bảo mật an ninh kiểm tra các mạng an ninh của họ bằng cách hack Wifi dựa trên các chương trình như Aircrack-ng, mdk3, hostapd v..v.. Công cụ này sử dụng kỹ thuật MITM tấn công các lớp bảo mật WPA/WPA2, mà không cần sử dụng các phần mềm có tính năng Bruteforce / Dictionary mất nhiều thời gian hơn.
 
 Dowload [Fluxion](https://github.com/wi-fi-analyzer/fluxion): 
-	```code
-	- Dùng lệnh Git để Dowload: git clone https://github.com/wi-fi-analyzer/fluxion.git
 
-	- Dowload trực tiếp: vào trang web trên chọn phần tìm đến phần "Clone or dowload" Chọn dowload zip.
-	```
+- Dùng lệnh Git để Dowload: ``git clone https://github.com/wi-fi-analyzer/fluxion.git``
+- Dowload trực tiếp: vào trang web trên chọn phần tìm đến phần "**Clone or dowload**" Chọn dowload zip.
 
-===
+---
+
 # Cài đặt:
 
 - Chạy file fluxion.sh bằng lệnh terminal: ``./fluxion.sh``
@@ -41,7 +40,7 @@ Dowload [Fluxion](https://github.com/wi-fi-analyzer/fluxion):
 ## Các bước tiến hành
 Xem thêm tại: ``https://www.youtube.com/watch?v=4ggZTG3rqXA``
 
-===
+---
 # Tuỳ biến công cụ
 ## Chỉnh sửa tên AP: 
 **Mục đích**: Cho phép tuỳ biến tên AP cho một số trường hợp tấn công. Ví dụ, khi cần tấn công ở môi trường công cộng có thể đổi tên thành "Free-wifi" hoặc một tên AP của các quán cafe, Internet...
@@ -60,8 +59,8 @@ Xem thêm tại: ``https://www.youtube.com/watch?v=4ggZTG3rqXA``
 - Chọn một thư mục bất kỳ để sửa. Có thể clone thư mục để tạo mới một trang đăng nhập khác. (Lúc sau tấn công phải chọn giao diện web đúng với thư mục đó. Có 44 giao diện web tương ứng với các thư mục trong phần site, tên giao diện web gần giống với tên thư mục)
 - Về cơ bản là trong mỗi thư mục sẽ có 3 file chính là ``index.html + final.html + error.html``. Những file khác để xử lý không cần để ý nhiều
 - Trong file **index.html** tìm thẻ ``<input type="password">`` sẽ có 1 thuộc tính ``name = "key1"``. Đây là cái khóa để trang web lấy dữ liệu và kết nối tới file fluxion.sh để lưu dữ liệu.
-===
-# Tham khảo
-[Tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN!](https://teamxaque.github.io/2017/08/31/tan-cong-man-in-the-middle.html)
 
-[Hướng dẫn khai thác AP](https://teamxaque.github.io/2017/08/29/Khai-thac-ap.html)
+---
+# Tham khảo
+1. [Tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN!](https://teamxaque.github.io/2017/08/31/tan-cong-man-in-the-middle.html)
+2. [Hướng dẫn khai thác AP](https://teamxaque.github.io/2017/08/29/Khai-thac-ap.html)
