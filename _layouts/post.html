@@ -16,6 +16,8 @@ layout: default
     </span>
     {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+  {% if page.comments %} • <a href="https://teamxaque.github.io{{ page.url }}#disqus_thread" class="label">0 Comments</a>{% endif %}
 </p>
 <hr />
 {{ content }}
+{% include disqus.html %}
