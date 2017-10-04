@@ -2,6 +2,7 @@
 title: Tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN!
 tags: [AP, Exploit AP, MITM Attack, Cain&Abel, DVWA]
 excerpt_separator: <!--more-->
+comments: true
 ---
 Bài viết note lại buổi semina về tấn công giả mạo AP và thử nghiệm MITM trong mạng LAN với Cain&Abel ngày 31/08/2017
 <!--more-->

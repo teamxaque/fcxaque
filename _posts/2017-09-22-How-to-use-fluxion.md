@@ -2,6 +2,7 @@
 title: Tấn công mạng không dây sử dụng Fluxion
 tags: [AP, Exploit AP, Fluxion]
 excerpt_separator: <!--more-->
+comments: true
 ---
 Mục đích của công cụ này là tạo ra một AP giả giống với AP thật. Sau đó dùng công cụ mdk3 để gửi các gói tin de-authentication, khiến người sử dụng không thể kết nối với AP thật
 <!--more-->
